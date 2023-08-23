@@ -14,7 +14,7 @@
 - With kubernetes installed on EC2 instance we apply deployment and service
 
 # Tech Stack
-Terraform, Jenkins, Kubernets, EC2, EKS, S3, CI/CD
+Terraform, Jenkins, Kubernetes, EC2, EKS, S3, CI/CD
 
 ## Project visualization 
 <img width="830" alt="image" src="https://github.com/capmichal/jenkins-terraform-pipeline/assets/130446782/b0fe0e93-18f7-4a00-b680-c2005b6f128a">
