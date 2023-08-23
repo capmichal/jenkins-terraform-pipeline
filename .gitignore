@@ -1,0 +1,9 @@
+jenkins-pipeline/terraform/.terraform/*
+jenkins-pipeline/terraform/.terraform.*
+jenkins-pipeline/terraform/*.tfstate
+jenkins-pipeline/terraform/*.tfstate.*
+jenkins-pipeline/terraform/*git*
+terraform-infra/.terraform/*
+terraform-infra/.terraform.*
+terraform-infra/*.tfstate
+terraform-infra/*.tfstate.*
